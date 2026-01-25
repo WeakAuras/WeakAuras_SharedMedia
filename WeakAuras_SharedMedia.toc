@@ -5,6 +5,8 @@
 ## X-Flavor: Mainline
 ## Notes: Textures, Sounds, Fonts previously shipped with WeakAuras
 ## X-Category: Interface Enhancements
+## X-Website: https://www.curseforge.com/wow/addons/weakauras-sharedmedia
+## X-Curse-Project-ID: 1444540
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
