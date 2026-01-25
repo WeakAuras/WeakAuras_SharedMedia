@@ -1,0 +1,12 @@
+## Interface: 120000
+## Title: WeakAuras SharedMedia
+## Author: The WeakAuras Team
+## IconTexture: Interface\AddOns\WeakAuras_SharedMedia\Textures\icon.blp
+## X-Flavor: Mainline
+## Notes: Textures, Sounds, Fonts previously shipped with WeakAuras
+## X-Category: Interface Enhancements
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+WeakAuras_SharedMedia.lua
