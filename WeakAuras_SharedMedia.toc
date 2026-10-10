@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120100 16001
 ## Title: WeakAuras SharedMedia
 ## Author: The WeakAuras Team
 ## IconTexture: Interface\AddOns\WeakAuras_SharedMedia\Textures\icon.blp
