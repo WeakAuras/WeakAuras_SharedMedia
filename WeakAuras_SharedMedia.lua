@@ -6,7 +6,6 @@ LSM:Register("sound", "Batman Punch", "Interface\\AddOns\\WeakAuras_SharedMedia\
 LSM:Register("sound", "Bike Horn", "Interface\\AddOns\\WeakAuras_SharedMedia\\Sounds\\BikeHorn.ogg")
 LSM:Register("sound", "Boxing Arena Gong", "Interface\\AddOns\\WeakAuras_SharedMedia\\Sounds\\BoxingArenaSound.ogg")
 LSM:Register("sound", "Bleat", "Interface\\AddOns\\WeakAuras_SharedMedia\\Sounds\\Bleat.ogg")
-LSM:Register("sound", "Cartoon Hop", "Interface\\AddOns\\WeakAuras_SharedMedia\\Sounds\\CartoonHop.ogg")
 LSM:Register("sound", "Cat Meow", "Interface\\AddOns\\WeakAuras_SharedMedia\\Sounds\\CatMeow2.ogg")
 LSM:Register("sound", "Kitten Meow", "Interface\\AddOns\\WeakAuras_SharedMedia\\Sounds\\KittenMeow.ogg")
 LSM:Register("sound", "Robot Blip", "Interface\\AddOns\\WeakAuras_SharedMedia\\Sounds\\RobotBlip.ogg")
