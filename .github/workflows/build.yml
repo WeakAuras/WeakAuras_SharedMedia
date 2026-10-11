@@ -28,7 +28,7 @@ jobs:
 
 
       - name: Create Package
-        uses: BigWigsMods/packager@5abb6e1ddbd98c818ac5ee3692613cd372619dc9 # v2
+        uses: BigWigsMods/packager@0f24d2169de3ceb3b79a981311b2ebab4c6160c7 # v2
         env:
           CF_API_KEY: ${{ secrets.CF_BUDS_API_KEY }}
           GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
